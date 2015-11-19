@@ -1,0 +1,5 @@
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\bin\Debug\Model.dll
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\bin\Debug\Model.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\obj\Debug\Model.dll
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\obj\Debug\Model.pdb

@@ -1,0 +1,8 @@
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\bin\Debug\View.exe.config
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\bin\Debug\View.exe
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\bin\Debug\View.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\bin\Debug\Model.dll
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\bin\Debug\Model.pdb
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\obj\Debug\View.exe
+c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\obj\Debug\View.pdb
