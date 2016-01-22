@@ -4,6 +4,8 @@ namespace Model
 {
     public class Numbertron
     {
+        private readonly Random _random = new Random();
+
         public event EventHandler<NewNumberEventArgs> NewNumber;
 
         protected virtual void OnNewNumber(int newNumber)
@@ -11,9 +13,9 @@ namespace Model
             NewNumber?.Invoke(this, new NewNumberEventArgs(newNumber));
         }
 
-        public void Generate(Random random)
+        public void Generate()
         {
-            var randomNumber = random.Next(0, 1000);
+            var randomNumber = _random.Next(0, 1000);
             OnNewNumber(randomNumber);
         }
     }

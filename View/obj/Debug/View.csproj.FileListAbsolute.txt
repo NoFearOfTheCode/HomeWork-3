@@ -6,3 +6,11 @@ c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\bin\De
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\obj\Debug\View.csprojResolveAssemblyReference.cache
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\obj\Debug\View.exe
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\View\obj\Debug\View.pdb
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\bin\Debug\View.exe.config
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\obj\Debug\View.exe
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\obj\Debug\View.pdb
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\bin\Debug\View.exe
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\bin\Debug\View.pdb
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\bin\Debug\Model.dll
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\bin\Debug\Model.pdb
+C:\Users\xpaac\Source\Repos\HomeWork-3\View\obj\Debug\View.csprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\bin\D
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\obj\Debug\Model.dll
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Model\obj\Debug\Model.pdb
+C:\Users\xpaac\Source\Repos\HomeWork-3\Model\bin\Debug\Model.dll
+C:\Users\xpaac\Source\Repos\HomeWork-3\Model\bin\Debug\Model.pdb
+C:\Users\xpaac\Source\Repos\HomeWork-3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\xpaac\Source\Repos\HomeWork-3\Model\obj\Debug\Model.dll
+C:\Users\xpaac\Source\Repos\HomeWork-3\Model\obj\Debug\Model.pdb

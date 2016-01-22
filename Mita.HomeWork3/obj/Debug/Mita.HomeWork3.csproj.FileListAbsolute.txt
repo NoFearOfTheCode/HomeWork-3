@@ -1,2 +1,4 @@
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Mita.HomeWork3\bin\Debug\Mita.HomeWork3.exe.config
 c:\users\andrey\documents\visual studio 2015\Projects\Mita.HomeWork3\Mita.HomeWork3\obj\Debug\Mita.HomeWork3.csprojResolveAssemblyReference.cache
+C:\Users\xpaac\Source\Repos\HomeWork-3\Mita.HomeWork3\bin\Debug\Mita.HomeWork3.exe.config
+C:\Users\xpaac\Source\Repos\HomeWork-3\Mita.HomeWork3\obj\Debug\Mita.HomeWork3.csprojResolveAssemblyReference.cache

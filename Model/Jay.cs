@@ -8,7 +8,7 @@ namespace Model
 
         public override void FetchNewNumber(object sender, NewNumberEventArgs e)
         {
-            if (e.CurentNumber.IsEven() == true)
+            if (e.CurentNumber.IsEven())
             {
                 Score++;
             }
